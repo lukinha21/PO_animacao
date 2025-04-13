@@ -44,11 +44,9 @@ for (int i = 0; i < 10; i++) {
 Além disso, o código-fonte do algoritmo é mostrado visualmente com realce da linha ativa durante a execução.
 
 📁 Estrutura
-bash
-Copiar
-Editar
 /src
 ├── Quick.java        # Algoritmo 1 (exemplo) , Interface principal e inicialização JavaFX
+
 ▶️ Como executar
 Compile com suporte ao JavaFX:
 
